@@ -8,12 +8,15 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.110DEAF1" = ""
+	"last_search.110DEAF1" = "s"
 	"OpenInspectorPreview.110DEAF1" = "0"
 	"currentGroup.110DEAF1" = "scene"
 	"last_search.E8DA15E5" = "s"
 	"OpenInspectorPreview.E8DA15E5" = "0"
 	"currentGroup.E8DA15E5" = "asset"
+	"last_search.3BE40471" = "s"
+	"OpenInspectorPreview.3BE40471" = "0"
+	"currentGroup.3BE40471" = "asset"
 }
 providers = {
 	performance = {
